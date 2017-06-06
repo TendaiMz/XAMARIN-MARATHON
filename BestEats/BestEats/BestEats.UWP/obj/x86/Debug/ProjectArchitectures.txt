@@ -1,0 +1,2 @@
+C:\Projects\Repos\XAMARIN-MARATHON\BestEats\BestEats\BestEats.UWP\BestEats.UWP.csproj;x86
+C:\Projects\Repos\XAMARIN-MARATHON\BestEats\BestEats\BestEats\BestEats.csproj;neutral
